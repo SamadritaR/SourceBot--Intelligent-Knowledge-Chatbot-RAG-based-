@@ -16,7 +16,7 @@ I designed and implemented this project end-to-end:
 
 ---
 
-## ⚙ Technical Execution
+##  Technical Execution
 1. **Document Indexing**  
    - Collected and processed FAQs, product manuals, and internal notes.  
    - Embedded documents into a **Pinecone vector database** using HuggingFace embeddings (`all-MiniLM-L6-v2`).  
