@@ -1,3 +1,5 @@
+# Intelligent Knowledge Chatbot (RAG-based)
+
 An **AI-powered chatbot** that uses Retrieval-Augmented Generation (RAG) to answer user questions with precise, source-backed responses.  
 The chatbot indexes documentation and FAQs, enabling instant query resolution that is transparent and reliable.  
 Built with **LangChain, Pinecone, and OpenAI API**, and deployed via **Streamlit** for an intuitive user experience.
